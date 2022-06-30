@@ -573,3 +573,10 @@ function getPointsDepartRandom(flightsData) {
 
 console.log(getPointsArrivalRandom(flightsData));
 console.log(getPointsDepartRandom(flightsData));
+
+let bestCost = 1000000
+
+for (let i = 0; i < 10; i++) {
+  
+    
+}
